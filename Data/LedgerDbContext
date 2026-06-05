@@ -1,8 +1,11 @@
 
+using System.ComponentModel.DataAnnotations;
+
 public class LedgerDbContext : DbContext
 {
     public LedgerDbContext (DbContextOptions<LedgerDbContext> 
     options) : base(options) { } 
     public DbSet<Transaction> Transactions {get; set;}
+    [Timestamp]
     public DbSet<Account> Accounts {get; set;}
 }
