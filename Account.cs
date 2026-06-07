@@ -1,3 +1,4 @@
+namespace TransactionLedger.Models;
 using System.ComponentModel.DataAnnotations;
 
 public class Account

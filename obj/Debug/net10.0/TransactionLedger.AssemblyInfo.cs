@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransactionLedger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82c3121f3ae7600096eac7d0c57203936c8851a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d519f38a1c70d47ba9b14da384058e3d10a2cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransactionLedger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransactionLedger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

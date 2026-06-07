@@ -1,3 +1,5 @@
+namespace TransactionLedger.Models;
+
 public class Transaction
 {
     public int Id {get; set;}
