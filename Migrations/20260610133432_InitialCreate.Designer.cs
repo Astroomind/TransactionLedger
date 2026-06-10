@@ -12,7 +12,7 @@ using TransactionLedger.Data;
 namespace TransactionLedger.Migrations
 {
     [DbContext(typeof(LedgerDbContext))]
-    [Migration("20260607150521_InitialCreate")]
+    [Migration("20260610133432_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
